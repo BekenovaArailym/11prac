@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Employeelib;
 
-namespace Prac11
+namespace Mod11prac
 {
     internal class Program
     {
