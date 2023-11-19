@@ -8,10 +8,10 @@ namespace Employeelib
 {
     public enum Vacancies
     {
-        PoliceOfficer,
-        Military,
-        Firefighter,
-        Medic
+        Programmer,
+        Teacher,
+        Pilot,
+        Artist
     }
 
     public struct Employee
